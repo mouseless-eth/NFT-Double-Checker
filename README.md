@@ -1,5 +1,7 @@
 # NFT Double Checker
-A script to quickly check if a NFT collection contains duplicate entries or not.
+A script to quickly check if a NFT collection contains tokens with duplicate metadata.
+
+This script hashes all metadata associated with each token and compares the hashes for duplicates. 
 
 ## How To Run The Script
 ### Installation
